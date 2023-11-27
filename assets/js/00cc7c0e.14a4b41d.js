@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkmccorp=self.webpackChunkkmccorp||[]).push([[7774],{3572:e=>{e.exports=JSON.parse('{"title":"Header","slug":"/category/header","permalink":"/kmc-web-copy/docs/category/header","navigation":{"next":{"title":"Header","permalink":"/kmc-web-copy/docs/header/"}}}')}}]);
